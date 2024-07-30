@@ -17,6 +17,7 @@ chmod +x aliases.sh
 ./aliases.sh
 source ~/.bashrc
 
+# if u need Alacritty
 sudo add-apt-repository ppa:aslatter/ppa
 apti alacritty
 
