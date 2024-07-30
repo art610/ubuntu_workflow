@@ -56,6 +56,7 @@ declare -A ALIASES=(
     ["dockerps"]="docker compose ps"  
     ["dockerl"]="docker-compose logs"  
     ["dockerm"]="nano docker-compose.yml"  
+    ["awesomec"]="nano ~/.config/awesome/rc.lua" 
 )  
 
 # Add aliases to the bashrc file  
