@@ -14,6 +14,7 @@ declare -A ALIASES=(
     ["l"]="exo -lag"  
     ["s"]="grep --color=auto -i"  
     ["eb"]="nano ~/.bashrc"  
+    ["ab"]="source ~/.bashrc"  
     ["certs"]="sudo certbot certificates"  
     ["md"]="mkdir -pv"  
     ["rd"]="sudo rm -R"  
