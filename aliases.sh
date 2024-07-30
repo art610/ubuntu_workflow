@@ -11,7 +11,7 @@ declare -A ALIASES=(
     ["h"]="history"  
     ["j"]="jobs -l"  
     ["p"]="sudo ss -tuln"  
-    ["l"]="exo -lag"  
+    ["l"]="exa -lag"  
     ["s"]="grep --color=auto -i"  
     ["+x"]="sudo chmod +x"
     ["-x"]="sudo chmod -x"
