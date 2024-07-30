@@ -16,4 +16,8 @@ cd ubuntu_workflow
 chmod +x aliases.sh
 ./aliases.sh
 source ~/.bashrc
+
+sudo add-apt-repository ppa:aslatter/ppa
+apti alacritty
+
 ```
